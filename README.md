@@ -1,4 +1,3 @@
-![dark](https://github.com/eugeneewe/gihubSNK/blob/output/github-contribution-grid-snake-dark.svg)
 <h1 align="center">Hola👋, I'm Eugene Ewe</h1>
 <h3 align="center">A passionate Cyber Security Engineer from Singapore</h3>
 <img align="right" alt="hacking" width="400" src="https://media.tenor.com/zzntm2_9B3gAAAAC/hacker.gif">
