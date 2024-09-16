@@ -13,17 +13,11 @@
 
 ❤️ Cisco Networking - CCNA 200-301
 
-❤️ Malware Analyst / Incident Responder
+❤️ Malware Analyst / Incident Responder from LetsDefend
 
 ❤️ Python / Java 
 
-❤️ Ubuntu / Windows Server / Kali
-
-❤️ CloudFlare / AWS / Azure / Oracle
-
-❤️ Adobe Photoshop / Adobe XD / Figma / DrawiO
-
-🟩 LetsDefend Incident Responder
+🟩 Offsec PEN-200
 
 🟩 Microsoft C# and Python
 
